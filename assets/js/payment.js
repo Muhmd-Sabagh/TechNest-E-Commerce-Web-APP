@@ -82,7 +82,7 @@ function createPaymentOverlay() {
 												><i class="bi bi-geo-alt-fill"></i
 											></span>
 											<input type="text" class="form-control" id="address" pattern="^[A-Za-z0-9][A-Za-z0-9\\s,.'\\-]{2,}$" placeholder="Your Address" required>
-											<div class="invalid-feedback">Address must be at least 3 characters.</div>
+											<div class="invalid-feedback">Address must be at least 3 characters (can include , . ' \- ).</div>
 										</div>
                 </div>
                 
@@ -113,13 +113,23 @@ function createPaymentOverlay() {
                 <div class="row mb-4">
                   <div class="col-md-6 mb-3 mb-md-0">
                     <label for="expiryDate" class="form-label">Expiry Date</label>
-                    <input type="text" class="form-control" id="expiryDate" placeholder="MM/YY" pattern="^\\d{2}/\\d{2}$" required>
-                    <div class="invalid-feedback">Please provide a valid expiry date</div>
+										<div class="input-group">
+											<span class="input-group-text"
+												><i class="bi bi-calendar-week-fill"></i
+											></span>
+											<input type="text" class="form-control" id="expiryDate" placeholder="MM/YY" pattern="^\\d{2}/\\d{2}$" required>
+											<div class="invalid-feedback">Please provide a valid expiry date</div>
+                  	</div>
                   </div>
                   <div class="col-md-6">
                     <label for="cvv" class="form-label">CVV</label>
-                    <input type="text" class="form-control" id="cvv" placeholder="..." pattern="^\\d{3,4}$" required>
-                    <div class="invalid-feedback">Please provide a valid CVV</div>
+										<div class="input-group">
+											<span class="input-group-text"
+												><i class="bi bi-shield-lock"></i
+											></span>
+											<input type="text" class="form-control" id="cvv" placeholder="..." pattern="^\\d{3,4}$" required>
+											<div class="invalid-feedback">Please provide a valid CVV</div>
+                  	</div>
                   </div>
                 </div>
                 
