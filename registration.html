@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TechNest - Login & Registration</title>
+    <link rel="icon" href="./assets/logo/favicon.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css"
+    />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./assets/css/font-poppins.css" />
+    <link rel="stylesheet" href="./assets/css/media-query.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body class="bg-light">
+    <div
+      class="container d-flex align-items-center justify-content-center min-vh-100 py-5"
+    >
+      <div class="row g-4 w-100" style="max-width: 1000px">
+        <!-- Login Card -->
+        <div class="col-md-6">
+          <div class="login-card bg-white shadow-lg p-4 p-md-5 rounded-4 h-100">
+            <div class="logo text-center mb-4">
+              <img
+                src="./assets/logo/TechNest-Tree.png"
+                alt="logo"
+                class="img-fluid"
+                style="max-width: 100px"
+              />
+            </div>
+            <h2 class="text-center mb-4">Sign In</h2>
+
+            <form id="loginForm" class="form d-flex flex-column gap-3">
+              <!-- Email Field -->
+              <div class="form-group">
+                <label for="login-email" class="form-label">Email</label>
+                <div class="input-group">
+                  <span class="input-group-text"
+                    ><i class="bi bi-envelope"></i
+                  ></span>
+                  <input
+                    type="email"
+                    class="form-control form-control-lg"
+                    id="login-email"
+                    placeholder="Your email"
+                    required
+                  />
+                </div>
+                <div id="email-error" class="invalid-feedback text-danger mt-1">
+                  Oops! This account does not exist. Time to sign up!
+                </div>
+              </div>
+
+              <!-- Password Field -->
+              <div class="form-group">
+                <label for="login-password" class="form-label">Password</label>
+                <div class="input-group">
+                  <span class="input-group-text"
+                    ><i class="bi bi-lock"></i
+                  ></span>
+                  <input
+                    type="password"
+                    class="form-control form-control-lg"
+                    id="login-password"
+                    placeholder="Your password"
+                    required
+                  />
+                  <button
+                    class="btn btn-outline-secondary toggle-password"
+                    type="button"
+                  >
+                    <i class="bi bi-eye"></i>
+                  </button>
+                </div>
+              </div>
+
+              <button
+                type="submit"
+                class="btn btn-primary btn-lg w-100 mt-4 py-3"
+                id="login-btn"
+              >
+                Sign In
+              </button>
+            </form>
+          </div>
+        </div>
+
+        <!-- Registration Card -->
+        <div class="col-md-6">
+          <div
+            class="register-card bg-white shadow-lg p-4 p-md-5 rounded-4 h-100"
+          >
+            <div class="logo text-center mb-4">
+              <img
+                src="./assets/logo/TechNest-Tree.png"
+                alt="logo"
+                class="img-fluid"
+                style="max-width: 100px"
+              />
+            </div>
+            <h2 class="text-center mb-4">Create Your Account</h2>
+
+            <form
+              id="registrationForm"
+              class="form d-flex flex-column gap-3 needs-validation"
+              novalidate
+            >
+              <!-- Email Field -->
+              <div class="form-group">
+                <label for="email" class="form-label">Email Address</label>
+                <div class="input-group">
+                  <span class="input-group-text"
+                    ><i class="bi bi-envelope"></i
+                  ></span>
+                  <input
+                    type="email"
+                    class="form-control form-control-lg rounded-end-2"
+                    id="email"
+                    placeholder="example@email.com"
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please provide a valid email address.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Name Field -->
+              <div class="form-group">
+                <label for="name" class="form-label">Full Name</label>
+                <div class="input-group">
+                  <span class="input-group-text"
+                    ><i class="bi bi-person"></i
+                  ></span>
+                  <input
+                    type="text"
+                    class="form-control form-control-lg rounded-end-2"
+                    id="name"
+                    placeholder="Your Name"
+                    pattern="[A-Za-z\s]{3,}"
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Name must be at least 3 characters (letters only).
+                  </div>
+                </div>
+              </div>
+
+              <!-- Password Field -->
+              <div class="form-group">
+                <label for="password" class="form-label">Password</label>
+                <div class="input-group">
+                  <span class="input-group-text"
+                    ><i class="bi bi-lock"></i
+                  ></span>
+                  <input
+                    type="password"
+                    class="form-control form-control-lg"
+                    id="password"
+                    placeholder="Create Password"
+                    minlength="8"
+                    required
+                  />
+                  <button
+                    class="btn btn-outline-secondary toggle-password rounded-end-2"
+                    type="button"
+                  >
+                    <i class="bi bi-eye"></i>
+                  </button>
+                  <div class="invalid-feedback">
+                    Password must be at least 8 characters.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Confirm Password Field -->
+              <div class="form-group">
+                <label for="confirm-password" class="form-label"
+                  >Confirm Password</label
+                >
+                <div class="input-group">
+                  <span class="input-group-text"
+                    ><i class="bi bi-lock"></i
+                  ></span>
+                  <input
+                    type="password"
+                    class="form-control form-control-lg"
+                    id="confirm-password"
+                    placeholder="Confirm Password"
+                    required
+                  />
+                  <button
+                    class="btn btn-outline-secondary toggle-password rounded-end-2"
+                    type="button"
+                  >
+                    <i class="bi bi-eye"></i>
+                  </button>
+                  <div class="invalid-feedback">Passwords must match.</div>
+                </div>
+              </div>
+
+              <button
+                type="submit"
+                class="btn btn-primary btn-lg w-100 mt-3 py-3"
+              >
+                Register
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="./assets/js/registration.js"></script>
+  </body>
+</html>

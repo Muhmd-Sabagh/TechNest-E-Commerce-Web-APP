@@ -1,0 +1,46 @@
+/* Registeration Page */
+@media (max-width: 576px) {
+  .register {
+    padding: 1.5rem !important;
+  }
+
+  .form-control,
+  .btn {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .form-floating.categories,
+  .form-floating.sorting,
+  .form-floating.filter {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Home Page */
+/* Navbar */
+@media (max-width: 992px) {
+  .navbar-collapse {
+    padding-bottom: 1rem;
+  }
+}
+
+/* Cart and product details overlay */
+@media (max-width: 768px) {
+  .overlay-content {
+    width: 95%;
+    margin: 10px auto;
+    padding: 15px;
+  }
+
+  #cartItems,
+  .product-detail {
+    max-height: 70vh;
+  }
+
+  .product-detail .row {
+    flex-direction: column;
+  }
+}

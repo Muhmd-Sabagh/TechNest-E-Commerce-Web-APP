@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "category": "laptops",
+    "name": "HP Laptop 15 15.6\" FHD, Intel Core i3-1315U (13th Gen), Intel UHD Graphics, 4GB RAM, 256GB SSD, 2 Year Warranty, Windows 11 Home, Natural",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 399,
+    "image": "./assets/images/products/laptops/1.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>HP Laptop 15 15.6\" FHD, Intel Core i3-1315U (13th Gen), Intel UHD Graphics, 4GB RAM, 256GB SSD, 2 Year Warranty, Windows 11 Home, Natural</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 2,
+    "category": "laptops",
+    "name": "ASUS Vivobook Go 15 OLED (E1504G) I3 8GB RAM 256 GB M.2",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 399,
+    "image": "./assets/images/products/laptops/2.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>ASUS Vivobook Go 15 OLED (E1504G) I3 8GB RAM 256 GB M.2</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 3,
+    "category": "laptops",
+    "name": "Lenovo ThinkPad E14 Gen2, Intel Core i7-1165G7, 8GB RAM, 512GB SSD, NVIDIA MX450 2GB, 14\" FHD",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 1027,
+    "image": "./assets/images/products/laptops/3.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>Lenovo ThinkPad E14 Gen2, Intel Core i7-1165G7, 8GB RAM, 512GB SSD, NVIDIA MX450 2GB, 14\" FHD</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 4,
+    "category": "laptops",
+    "name": "HP 15-779M7ES - 255 G9, Ryzen 7-5825U, 8GB RAM, 256GB SSD, 15.6\" FHD",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 527,
+    "image": "./assets/images/products/laptops/4.png",
+    "isFeatured": true,
+    "about": "<h2>Overview</h2><p>The <strong>HP 15-779M7ES - 255 G9, Ryzen 7-5825U, 8GB RAM, 256GB SSD, 15.6\" FHD</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 5,
+    "category": "laptops",
+    "name": "Dell G15 5520 Gaming Laptop, Core i7-12700H, 15.6\" FHD, 512GB SSD, 16GB RAM, RTX 3050 4GB",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 1043,
+    "image": "./assets/images/products/laptops/5.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>Dell G15 5520 Gaming Laptop, Core i7-12700H, 15.6\" FHD, 512GB SSD, 16GB RAM, RTX 3050 4GB</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 6,
+    "category": "laptops",
+    "name": "Dell Vostro 3510 Laptop, 15.6\" HD, Core i3-1115G4, 256GB SSD, 4GB RAM",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 514,
+    "image": "./assets/images/products/laptops/6.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>Dell Vostro 3510 Laptop, 15.6\" HD, Core i3-1115G4, 256GB SSD, 4GB RAM</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 7,
+    "category": "laptops",
+    "name": "Asus Vivobook Go Laptop E1504GA-NJ257W, 15.6\" FHD, Intel Core i3 N305",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 355,
+    "image": "./assets/images/products/laptops/7.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>Asus Vivobook Go Laptop E1504GA-NJ257W, 15.6\" FHD, Intel Core i3 N305</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 8,
+    "category": "laptops",
+    "name": "ASUS X415EA-EB1664, Core i7-1165G7, 8GB RAM, 512GB SSD",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 746,
+    "image": "./assets/images/products/laptops/8.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>ASUS X415EA-EB1664, Core i7-1165G7, 8GB RAM, 512GB SSD</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 9,
+    "category": "laptops",
+    "name": "HP 250 G10 Laptop, 15.6\" FHD, Core i3-1315U, 4GB RAM, 256GB SSD",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 358,
+    "image": "./assets/images/products/laptops/9.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>HP 250 G10 Laptop, 15.6\" FHD, Core i3-1315U, 4GB RAM, 256GB SSD</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 10,
+    "category": "laptops",
+    "name": "HP 255 G9 Notebook, 15.6\" FHD, Ryzen 5 5625U, 8GB RAM, 256GB SSD",
+    "description": "Modern and powerful laptop suitable for everyday use, study, and work.",
+    "price": 411,
+    "image": "./assets/images/products/laptops/10.png",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The <strong>HP 255 G9 Notebook, 15.6\" FHD, Ryzen 5 5625U, 8GB RAM, 256GB SSD</strong> offers reliable performance and modern features for multitasking, entertainment, and productivity.</p><h2>Key Features</h2><ul><li>Powerful processor and efficient RAM</li><li>Fast SSD storage</li><li>Sharp and vibrant display</li><li>Ideal for students and professionals</li></ul>"
+  },
+  {
+    "id": 11,
+    "category": "desktops",
+    "name": "XANDER Pandora Gaming PC Case for Most Assemblies with 4 RGB Fans",
+    "description": "XANDER Pandora Gaming PC Case with 4 RGB fans, ideal for most custom assemblies.",
+    "price": 61,
+    "image": "./assets/images/products/desktops/1.png",
+    "isFeatured": false,
+    "about": "<p>Stylish mid-tower case with optimal airflow and <strong>RGB lighting</strong>.</p>"
+  },
+  {
+    "id": 12,
+    "category": "desktops",
+    "name": "GAMEON TRIDENT II S-Series Mid Tower Gaming Case",
+    "description": "GAMEON TRIDENT II S-Series Mid Tower Case with modern design and efficient cooling.",
+    "price": 108,
+    "image": "./assets/images/products/desktops/2.jpg",
+    "isFeatured": true,
+    "about": "<p>Sleek design and great for <em>high-performance gaming builds</em>.</p>"
+  },
+  {
+    "id": 13,
+    "category": "desktops",
+    "name": "ASA ODYSSEY XL PC Gaming Case with 7 RGB Fans - White",
+    "description": "High-quality XL gaming case with 7 vibrant RGB fans and side glass panel.",
+    "price": 205,
+    "image": "./assets/images/products/desktops/3.png",
+    "isFeatured": false,
+    "about": "<p>Premium case with <strong>excellent airflow</strong> and bold <span style='color: #f39c12;'>front RGB lighting</span>.</p>"
+  },
+  {
+    "id": 14,
+    "category": "desktops",
+    "name": "Aerocool Mirage ARGB ATX Mid Tower Case",
+    "description": "Aerocool Mirage case with infinity mirror LED, ARGB fans, and glass side panel.",
+    "price": 121,
+    "image": "./assets/images/products/desktops/4.png",
+    "isFeatured": false,
+    "about": "<p>Visually stunning with solid <strong>cooling support</strong> and ARGB features.</p>"
+  },
+  {
+    "id": 15,
+    "category": "desktops",
+    "name": "Lian Li Lancool II Mesh C RGB-S Mid-Tower Snow White",
+    "description": "Mid-tower case with mesh front panel and USB Type-C support.",
+    "price": 176,
+    "image": "./assets/images/products/desktops/5.png",
+    "isFeatured": false,
+    "about": "<p>Excellent <strong>airflow</strong>, elegant <em>white color</em>, and user-friendly features.</p>"
+  },
+  {
+    "id": 16,
+    "category": "desktops",
+    "name": "Hook Thunder Black",
+    "description": "Hook Thunder Black PC case with a strong build and modern design.",
+    "price": 159,
+    "image": "./assets/images/products/desktops/6.png",
+    "isFeatured": false,
+    "about": "<p>A solid option for <em>stylish gaming setups</em> with bold design.</p>"
+  },
+  {
+    "id": 17,
+    "category": "desktops",
+    "name": "Hook Thunder White",
+    "description": "Hook Thunder White PC case with a modern aesthetic and excellent build.",
+    "price": 159,
+    "image": "./assets/images/products/desktops/7.png",
+    "isFeatured": false,
+    "about": "<p>Clean <strong>white look</strong> with plenty of airflow options and cooling support.</p>"
+  },
+  {
+    "id": 18,
+    "category": "desktops",
+    "name": "Xigmatek Pano White Case",
+    "description": "Xigmatek Pano case in white finish, offering panoramic design and ample space.",
+    "price": 170,
+    "image": "./assets/images/products/desktops/8.png",
+    "isFeatured": false,
+    "about": "<p><em>Panoramic style</em> and <strong>plenty of cooling potential</strong> for creative builds.</p>"
+  },
+  {
+    "id": 19,
+    "category": "phones",
+    "name": "Google Pixel 9a",
+    "description": "Mid-range Android smartphone with a 6.3\" OLED display, Google Tensor G4 chip, and 48MP main camera.",
+    "price": 146.99,
+    "image": "./assets/images/products/phones/Google-Pixel-9a.jpg",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The Google Pixel 9a is a standout mid-range Android smartphone, offering excellent value at $499. It features a high-quality 6.3-inch OLED display, top-tier Google Tensor G4 chip, 8GB RAM, and a 48MP main camera, providing performance and photo quality that rival premium models. The 9a excels in battery life, lasting up to 57 hours under light use, and includes robust features like IP68 water resistance and a clean, efficient Android 15 experience with seven years of software support.</p><h2>Key Features</h2><ul><li>6.3-inch OLED display</li><li>Google Tensor G4 processor</li><li>48MP main camera</li><li>IP68 water resistance</li><li>7 years of software updates</li></ul>"
+  },
+  {
+    "id": 20,
+    "category": "phones",
+    "name": "Honor X8c",
+    "description": "Affordable smartphone with a sleek design, large display, and reliable performance.",
+    "price": 34.97,
+    "image": "./assets/images/products/phones/Honor-X8c.jpg",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The Honor X8c offers a sleek design and reliable performance at an affordable price point. With a large display and efficient processor, it caters to users seeking essential smartphone features without breaking the bank.</p><h2>Key Features</h2><ul><li>Large display for immersive viewing</li><li>Efficient processor for daily tasks</li><li>Sleek and modern design</li><li>Long-lasting battery life</li><li>Affordable pricing</li></ul>"
+  },
+  {
+    "id": 21,
+    "category": "phones",
+    "name": "Oppo A5 Pro 4G",
+    "description": "Durable smartphone with a 6.67\" display, Snapdragon 6s Gen1 processor, and 50MP dual camera.",
+    "price": 382.29,
+    "image": "./assets/images/products/phones/Oppo-A5-Pro-4G.jpg",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The Oppo A5 Pro 4G is a durable smartphone featuring a 6.67-inch display, powered by the Snapdragon 6s Gen1 processor. It boasts a 50MP dual camera setup and a robust 5800mAh battery, ensuring long-lasting performance for daily use.</p><h2>Key Features</h2><ul><li>6.67-inch display with 90Hz refresh rate</li><li>Snapdragon 6s Gen1 processor</li><li>50MP dual camera system</li><li>5800mAh battery with 45W fast charging</li><li>IP68/IP69 dust and water resistance</li></ul>"
+  },
+  {
+    "id": 22,
+    "category": "phones",
+    "name": "Realme 14 Pro Plus",
+    "description": "High-performance smartphone with advanced camera features and fast charging capabilities.",
+    "price": 522.93,
+    "image": "./assets/images/products/phones/Realme-14-Pro-Plus.jpg",
+    "isFeatured": true,
+    "about": "<h2>Overview</h2><p>The Realme 14 Pro Plus delivers high performance with its advanced camera features and rapid charging capabilities. Designed for users who demand speed and quality, it offers a seamless smartphone experience.</p><h2>Key Features</h2><ul><li>High-resolution camera system</li><li>Fast charging technology</li><li>Powerful processor for multitasking</li><li>Vibrant and responsive display</li><li>Stylish and ergonomic design</li></ul>"
+  },
+  {
+    "id": 23,
+    "category": "phones",
+    "name": "Samsung Galaxy A26",
+    "description": "Mid-range smartphone with a 6.7\" Super AMOLED display, Exynos 1380 processor, and 50MP triple camera.",
+    "price": 84.98,
+    "image": "./assets/images/products/phones/Samsung-Galaxy-A26.jpg",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The Samsung Galaxy A26 is a mid-range smartphone featuring a 6.7-inch Super AMOLED display and powered by the Exynos 1380 processor. It comes equipped with a 50MP triple camera setup and a 5000mAh battery, offering reliable performance for everyday use.</p><h2>Key Features</h2><ul><li>6.7-inch Super AMOLED display</li><li>Exynos 1380 processor</li><li>50MP triple camera system</li><li>5000mAh battery with 25W fast charging</li><li>IP67 dust and water resistance</li></ul>"
+  },
+  {
+    "id": 24,
+    "category": "phones",
+    "name": "Samsung Galaxy A56",
+    "description": "Premium smartphone with a 6.7\" Super AMOLED display, Exynos 1580 processor, and 50MP triple camera.",
+    "price": 272.87,
+    "image": "./assets/images/products/phones/Samsung-Galaxy-A56.jpg",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The Samsung Galaxy A56 is a premium smartphone featuring a 6.7-inch Super AMOLED display and powered by the Exynos 1580 processor. It boasts a 50MP triple camera system and a 5000mAh battery, ensuring top-tier performance and photography capabilities.</p><h2>Key Features</h2><ul><li>6.7-inch Super AMOLED display with 120Hz refresh rate</li><li>Exynos 1580 processor</li><li>50MP triple camera system</li><li>5000mAh battery with 45W fast charging</li><li>IP67 dust and water resistance</li></ul>"
+  },
+  {
+    "id": 25,
+    "category": "phones",
+    "name": "Vivo V50",
+    "description": "Sleek smartphone with a high-resolution AMOLED display, Snapdragon 7 Gen 1, and 50MP main camera.",
+    "price": 431.87,
+    "image": "./assets/images/products/phones/Vivo-V50.jpg",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The Vivo V50 is a sleek and modern smartphone powered by the Snapdragon 7 Gen 1 processor. It features a stunning AMOLED display, advanced camera setup, and 80W fast charging—making it ideal for users who value style and performance.</p><h2>Key Features</h2><ul><li>6.67-inch FHD+ AMOLED 120Hz display</li><li>Snapdragon 7 Gen 1 processor</li><li>50MP + 8MP dual rear cameras</li><li>5000mAh battery with 80W fast charging</li><li>Fingerprint under display</li></ul>"
+  },
+  {
+    "id": 26,
+    "category": "phones",
+    "name": "Vivo V50 Lite 5G",
+    "description": "Compact 5G smartphone with smooth performance and efficient battery life.",
+    "price": 192.89,
+    "image": "./assets/images/products/phones/Vivo-V50-Lite-5G.jpg",
+    "isFeatured": false,
+    "about": "<h2>Overview</h2><p>The Vivo V50 Lite 5G combines affordability and performance in a slim design. It features a vibrant AMOLED display, 5G support, a 50MP main camera, and a long-lasting battery—making it a great choice for everyday use and streaming on the go.</p><h2>Key Features</h2><ul><li>6.67-inch AMOLED 120Hz display</li><li>Snapdragon 695 5G processor</li><li>50MP + 2MP rear cameras</li><li>5000mAh battery with 44W fast charging</li><li>5G connectivity for faster browsing</li></ul>"
+  },
+  {
+    "id": 27,
+    "category": "mouses",
+    "name": "Glorious Model D Wireless Gaming Mouse - RGB Mouse",
+    "description": "High-performance wireless gaming mouse with RGB lighting and ultra-light design.",
+    "price": 77.33,
+    "image": "./assets/images/products/mouses/1.png",
+    "isFeatured": false,
+    "about": "<p>The Glorious Model D Wireless combines top-tier wireless performance, an ultra-lightweight design, and customizable RGB lighting, making it a powerhouse for gamers seeking freedom and speed.</p>"
+  },
+  {
+    "id": 28,
+    "category": "mouses",
+    "name": "HP Z3700 Wireless Mouse, 2.4GHz USB Dongle",
+    "description": "Sleek and portable wireless mouse with reliable 2.4GHz connectivity.",
+    "price": 38.67,
+    "image": "./assets/images/products/mouses/2.png",
+    "isFeatured": false,
+    "about": "<p>The HP Z3700 Wireless Mouse offers smooth tracking, compact portability, and a stylish design. With long battery life and USB dongle connectivity, it's perfect for on-the-go productivity.</p>"
+  },
+  {
+    "id": 29,
+    "category": "mouses",
+    "name": "Glorious Gaming Mouse - Model D Minus",
+    "description": "Ergonomic and ultra-lightweight gaming mouse with optimized performance.",
+    "price": 104.0,
+    "image": "./assets/images/products/mouses/3.png",
+    "isFeatured": false,
+    "about": "<p>Designed for smaller hands, the Glorious Model D Minus features an ergonomic shape, lightweight design, and stunning RGB illumination, ensuring ultimate comfort and control during intense gaming sessions.</p>"
+  },
+  {
+    "id": 30,
+    "category": "mouses",
+    "name": "Glorious Gaming Mouse - Model O, Matte Black",
+    "description": "Ultra-lightweight wired gaming mouse with premium build and RGB lighting.",
+    "price": 104.0,
+    "image": "./assets/images/products/mouses/4.png",
+    "isFeatured": false,
+    "about": "<p>The Glorious Model O Matte Black is built for competitive gaming with a super lightweight honeycomb shell, ultra-smooth cable, and customizable RGB. Perfect for precision and speed-focused gamers.</p>"
+  },
+  {
+    "id": 31,
+    "category": "mouses",
+    "name": "Glorious Gaming Mouse - Model O, Matte White",
+    "description": "Ultra-light gaming mouse in a stylish matte white finish with customizable lighting.",
+    "price": 104.0,
+    "image": "./assets/images/products/mouses/5.png",
+    "isFeatured": false,
+    "about": "<p>With its iconic honeycomb shell and flawless matte white finish, the Glorious Model O Matte White is perfect for gamers seeking a blend of lightweight performance and striking aesthetics.</p>"
+  },
+  {
+    "id": 32,
+    "category": "mouses",
+    "name": "Vertux Gaming Mouse - Charged Lightweight",
+    "description": "Rechargeable lightweight gaming mouse designed for fast-paced play.",
+    "price": 41.33,
+    "image": "./assets/images/products/mouses/6.png",
+    "isFeatured": false,
+    "about": "<p>The Vertux Charged Lightweight Gaming Mouse delivers swift movement, rechargeable convenience, and ergonomic design, empowering gamers to stay at the top of their game without interruptions.</p>"
+  },
+  {
+    "id": 33,
+    "category": "keyboards",
+    "name": "Redragon K630 Dragonborn Compact 60% Wired RGB Keyboard",
+    "description": "Compact 60% mechanical keyboard with vibrant RGB lighting and pro-grade switches.",
+    "price": 57.3,
+    "image": "./assets/images/products/keyboards/1.png",
+    "isFeatured": true,
+    "about": "<p>The Redragon K630 Dragonborn features a space-saving 60% layout, customizable RGB lighting, and responsive mechanical switches for a superb typing and gaming experience in a small footprint.</p>"
+  },
+  {
+    "id": 34,
+    "category": "headsets",
+    "name": "Steelseries Arctis 5 (2019 Edition)",
+    "description": "Premium gaming headset with RGB illumination and high-fidelity sound.",
+    "price": 122.66,
+    "image": "./assets/images/products/headsets/1.png",
+    "isFeatured": false,
+    "about": "<ul><li>ClearCast bidirectional microphone</li><li>DTS Headphone:X v2.0 surround</li><li>Prism RGB lighting</li><li>Steel-reinforced headband</li></ul>"
+  },
+  {
+    "id": 35,
+    "category": "headsets",
+    "name": "Redragon ARES H120",
+    "description": "Comfortable wired headset perfect for gamers on a budget.",
+    "price": 30.64,
+    "image": "./assets/images/products/headsets/2.png",
+    "isFeatured": false,
+    "about": "<ul><li>Wired 3.5mm connection</li><li>Durable design</li><li>Adjustable headband</li><li>Good microphone clarity</li></ul>"
+  },
+  {
+    "id": 36,
+    "category": "headsets",
+    "name": "Redragon H386 Diomedes",
+    "description": "Wired gaming headset with powerful bass and crystal-clear audio.",
+    "price": 57.33,
+    "image": "./assets/images/products/headsets/3.png",
+    "isFeatured": false,
+    "about": "<ul><li>7.1 Stereo Surround Sound</li><li>Soft memory foam ear pads</li><li>Adjustable metal headband</li><li>Noise-canceling microphone</li></ul>"
+  },
+  {
+    "id": 37,
+    "category": "headsets",
+    "name": "Redragon H320 Lamia Black",
+    "description": "Durable black gaming headset featuring 7.1 sound and vivid lighting.",
+    "price": 53.07,
+    "image": "./assets/images/products/headsets/4.png",
+    "isFeatured": false,
+    "about": "<ul><li>7.1 Virtual Surround Sound</li><li>RGB Backlighting</li><li>Noise-isolating ear cups</li><li>Flexible mic boom</li></ul>"
+  },
+  {
+    "id": 38,
+    "category": "headsets",
+    "name": "Redragon H320 Lamia White",
+    "description": "High-quality gaming headset with 7.1 surround sound for immersive gameplay.",
+    "price": 53.07,
+    "image": "./assets/images/products/headsets/5.png",
+    "isFeatured": false,
+    "about": "<ul><li>7.1 Surround Sound</li><li>RGB lighting</li><li>Comfortable ear cushions</li><li>Adjustable microphone</li></ul>"
+  },
+  {
+    "id": 39,
+    "category": "headsets",
+    "name": "L'avvento TWS Earbuds",
+    "description": "Wireless earbuds with Bluetooth 5.0 and pop-up pairing.",
+    "price": 39.97,
+    "image": "./assets/images/products/headsets/6.png",
+    "isFeatured": false,
+    "about": "<ul><li>Bluetooth 5.0 connection</li><li>Pop-up auto pairing</li><li>Compact charging case</li><li>Good sound quality</li></ul>"
+  },
+  {
+    "id": 40,
+    "category": "headsets",
+    "name": "Redragon H376 Aurora Pink",
+    "description": "Stylish wired gaming headset with a pink design and immersive audio.",
+    "price": 72.44,
+    "image": "./assets/images/products/headsets/7.png",
+    "isFeatured": false,
+    "about": "<ul><li>RGB LED illumination</li><li>Ultra-lightweight build</li><li>Noise-reduction mic</li><li>Over-ear comfortable design</li></ul>"
+  },
+  {
+    "id": 41,
+    "category": "headsets",
+    "name": "Gaming Headphone With Mic",
+    "description": "Affordable gaming headset suitable for Fortnite and other games.",
+    "price": 9.33,
+    "image": "./assets/images/products/headsets/8.png",
+    "isFeatured": false,
+    "about": "<ul><li>Lightweight design</li><li>Good microphone quality</li><li>Plug-and-play setup</li><li>Comfortable for long sessions</li></ul>"
+  },
+  {
+    "id": 42,
+    "category": "headsets",
+    "name": "SteelSeries Arctis 7+",
+    "description": "Wireless gaming headset with premium audio and 30-hour battery life.",
+    "price": 170.53,
+    "image": "./assets/images/products/headsets/9.png",
+    "isFeatured": false,
+    "about": "<ul><li>Lossless 2.4GHz wireless audio</li><li>USB-C charging</li><li>30-hour battery life</li><li>ClearCast noise-canceling mic</li></ul>"
+  },
+  {
+    "id": 43,
+    "category": "headsets",
+    "name": "Logitech H110 Stereo Headset",
+    "description": "Reliable stereo headset for everyday use with a simple plug-and-play setup.",
+    "price": 10.66,
+    "image": "./assets/images/products/headsets/10.png",
+    "isFeatured": false,
+    "about": "<ul><li>Noise-reducing microphone</li><li>Adjustable headband</li><li>Simple 3.5mm connections</li><li>Lightweight for long wear</li></ul>"
+  }
+]
