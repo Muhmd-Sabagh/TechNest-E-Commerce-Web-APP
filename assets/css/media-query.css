@@ -35,11 +35,6 @@
     padding: 15px;
   }
 
-  #cartItems,
-  .product-detail {
-    max-height: 70vh;
-  }
-
   .product-detail .row {
     flex-direction: column;
   }
